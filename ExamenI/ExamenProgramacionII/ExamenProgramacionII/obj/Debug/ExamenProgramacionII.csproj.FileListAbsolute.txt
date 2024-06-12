@@ -1,0 +1,6 @@
+/Users/anthony/Documents/Respaldo/U/Programacion2/ExamenI/ExamenProgramacionII/ExamenProgramacionII/bin/Debug/ExamenProgramacionII.exe
+/Users/anthony/Documents/Respaldo/U/Programacion2/ExamenI/ExamenProgramacionII/ExamenProgramacionII/bin/Debug/ExamenProgramacionII.pdb
+/Users/anthony/Documents/Respaldo/U/Programacion2/ExamenI/ExamenProgramacionII/ExamenProgramacionII/obj/Debug/ExamenProgramacionII.csproj.AssemblyReference.cache
+/Users/anthony/Documents/Respaldo/U/Programacion2/ExamenI/ExamenProgramacionII/ExamenProgramacionII/obj/Debug/ExamenProgramacionII.csproj.CoreCompileInputs.cache
+/Users/anthony/Documents/Respaldo/U/Programacion2/ExamenI/ExamenProgramacionII/ExamenProgramacionII/obj/Debug/ExamenProgramacionII.exe
+/Users/anthony/Documents/Respaldo/U/Programacion2/ExamenI/ExamenProgramacionII/ExamenProgramacionII/obj/Debug/ExamenProgramacionII.pdb
